@@ -31,6 +31,7 @@ That's it! Your `Listener` will receive events from the streaming parser as it w
 
 There is a complete example of this in `example/example.php`.
 
+http://soyuka.me/streaming-big-json-files-the-good-way/
 
 License
 -------
